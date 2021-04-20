@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaniernathan&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=PDCT-backend&hide_border=true" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=spaniernathan&color=lightgray)
