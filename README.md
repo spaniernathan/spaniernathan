@@ -1,19 +1,28 @@
-# Welcome to my profile !
+<img align="center" alt="Nathan SPANIER | Banner" src="https://raw.githubusercontent.com/spaniernathan/spaniernathan/master/banner.png" />
+
+# Welcome to my profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 <p>My name is Nathan and I am a developer.</p>
 <p>Mainly working as a Full Stack Developer with a lot of interest in DevOps.</p>
 <br/>
-<table>
-    <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=spaniernathan&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true" />
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr style="padding: 0">
+    <td valign="top">
+        <img height="200" src="https://raw.githubusercontent.com/spaniernathan/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
     </td>
-    <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaniernathan&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=PDCT-backend&hide_border=true" />
+    <td valign="top">
+        <img height="200" src="https://raw.githubusercontent.com/spaniernathan/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
     </td>
+    </tr>
 </table>
 
 <br/>
 
-# Some useful links
+# Where you can find me:
 
-- [LinkedIn](https://www.linkedin.com/in/nathan-spanier-960730158/)
+<a href="https://www.linkedin.com/in/nathan-spanier-960730158/">
+  <img align="left" alt="Nathan SPANIER | LinkedIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
+</a>
+<a href="https://keybase.io/spaniernathan">
+  <img align="left" alt="Nathan SPANIER | KeyBase" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg" />
+</a>
