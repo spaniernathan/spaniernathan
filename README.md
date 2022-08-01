@@ -18,6 +18,8 @@
 
 <br/>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=v8qh2lfk4sfve2392vx1tixk7&cover_image=true&theme=novatorem&bar_color=008dae&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=v8qh2lfk4sfve2392vx1tixk7&redirect=true)
+
 # Where you can find me:
 
 <a href="https://www.linkedin.com/in/nathan-spanier-960730158/">
