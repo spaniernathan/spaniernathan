@@ -2,7 +2,7 @@
 
 # Welcome to my profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-<p>My name is Nathan and I am a developer.</p>
+<p>Hello, I am Nathan</p>
 <p>Mainly working as a Full Stack Developer with a lot of interest in DevOps.</p>
 <br/>
 <table border="0" cellspacing="0" cellpadding="0">
@@ -24,7 +24,4 @@
 
 <a href="https://www.linkedin.com/in/nathan-spanier-960730158/">
   <img align="left" alt="Nathan SPANIER | LinkedIn" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" />
-</a>
-<a href="https://keybase.io/spaniernathan">
-  <img align="left" alt="Nathan SPANIER | KeyBase" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg" />
 </a>
